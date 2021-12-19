@@ -1,6 +1,6 @@
 Note: This uses SP's staging branch as a base for the patch.
 
-Current changes:
+### Current changes:
 
 Sizuru -> Shizuru
 
