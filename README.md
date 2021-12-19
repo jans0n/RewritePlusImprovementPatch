@@ -1,4 +1,4 @@
-Note: This uses SP's staging branch as a base for the patch. This means that there is a possibility of global flags getting corrupted when updates are pushed to the staging branch. Please disable automatic updates for Rewrite+ on steam to prevent breaking the game any further. Please not that this also means they won't see any fixes to text/images/etc. 
+Note: This uses SP's staging branch as a base for the patch. This means that there is a possibility of global flags getting corrupted when updates are pushed to the staging branch. Please disable automatic updates for Rewrite+ on steam to prevent breaking the game any further. Please note that this also means they won't see any fixes to text/images/etc. 
 
 ### Current changes:
 
