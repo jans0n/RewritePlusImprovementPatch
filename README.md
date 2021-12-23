@@ -1,5 +1,3 @@
-Note: This uses SP's staging branch as a base for the patch until they sort out the major bugs in the main branch. This means that there is a possibility of global flags getting corrupted when updates are pushed to the staging branch. Please disable automatic updates for Rewrite+ on steam to prevent breaking the game any further. Please note that this also means you won't see any fixes to text/images/etc from Sekai Project until I update this patch. 
-
 ## Installation
 1. Download the latest zip under the releases tab.
 2. Extract all the files from the zip into your Rewrite+ directory.
@@ -10,9 +8,7 @@ Note: This uses SP's staging branch as a base for the patch until they sort out 
 
 - Uncensored images are restored from the Japanese version of Rewrite+
 
-- "Shake it now, baby now" scene restored
-
-- Opening and ending videos now have subtitles
+- Opening and ending videos now have subtitles (in your Rewrite+ settings go to "Movie Settings" and change it to MCI if videos lag)
 
 - An issue with the ending video's audio bitrate has been fixed
 
