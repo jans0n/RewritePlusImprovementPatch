@@ -8,7 +8,7 @@
 
 - Uncensored images are restored from the Japanese version of Rewrite+
 
-- Opening and ending videos now have subtitles (in your Rewrite+ settings go to "Movie Settings" and change it to MCI if videos lag)
+- Opening and ending videos now have subtitles
 
 - An issue with the ending video's audio bitrate has been fixed
 
